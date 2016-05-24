@@ -18,19 +18,19 @@ könnt diese dort ganz einfach verbessern und korrigieren.
 
     **Das CakePHP Kochbuch für unterwegs**
 
-    Das CakePHP Kochbuch für unterwegs. Verfügbar als PDF oder EPUB Version:
+    Verfügbar als PDF oder EPUB Version:
 
     - `PDF <../_downloads/de/CakePHPCookbook.pdf>`_
     - `EPUB <../_downloads/de/CakePHPCookbook.epub>`_
     - `Original Source <http://github.com/cakephp/docs>`_
 
-Getting Help
+Hilfe und Unterstützung
 ============
 
-If you're stuck, there are a number of places :doc:`you can get help
-</intro/where-to-get-help>`.
+Wenn du einmal nicht weiter kommst, :doc:`findest du hier Hilfe</intro/where-to-get-help>`.
 
-First Steps
+
+Erste Schritte
 ===========
 
 Learning a new framework can be intimidating and exciting at the same time. To
